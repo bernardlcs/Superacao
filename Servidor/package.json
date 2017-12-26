@@ -1,0 +1,22 @@
+{
+  "name": "servidor",
+  "version": "1.0.0",
+  "description": "back projeto escolar",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bernardlcs/Superacao.git"
+  },
+  "author": "bernard lenin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bernardlcs/Superacao/issues"
+  },
+  "homepage": "https://github.com/bernardlcs/Superacao#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
